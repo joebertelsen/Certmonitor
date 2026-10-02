@@ -2,7 +2,7 @@
 TLS Cert Monitor that checks certificates using the java.security package.
 
 # Usage
-Certmonitor is a CLI tool that reads against a 'hosts.txt' file to view the concurrency of active or expiring certificates for the hosts specified
+Certmonitor is a CLI tool that reads a 'hosts.txt' file (place in same directory as _Certmonitor_) to view the concurrency of active or expiring certificates for the hosts specified
 
 Default usage:  
 
